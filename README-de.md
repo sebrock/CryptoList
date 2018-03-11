@@ -18,7 +18,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
   - [Medium](#medium)
   - [Telegram Kanäle](#telegram-kanäle)
 - [Aggregierte Nachrichten](#aggregierte-nachrichten)
-- [Preisbeoabachtung](#preisbeoabachtung)
+- [Preisbeobachtung](#Preisbeobachtung)
 - [ICO Trackers](#ico-tracker)
 - [Handelsplätze](#handelsplätze)
 - [Communities](#communities)
