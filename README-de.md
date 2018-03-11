@@ -12,13 +12,13 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/join_cht)
 
 # Inhaltsverzeichnis
-[English Version](https://github.com/42Vision/CryptoList-zh-cn/blob/master/README-en.md) :uk:
+[English Version](https://github.com/coinpride/CryptoList/blob/master/README.md) :uk:
 - [Medien](#media)
   - [Magazine und Blogs](#magazine-und-blogs)
   - [Medium](#medium)
   - [Telegram Kanäle](#telegram-kanäle)
 - [Aggregierte Nachrichten](#aggregierte-nachrichten)
-- [Preisüberwachung](#preisüberwachung)
+- [Preisverfolgung](#preisverfolgung)
 - [ICO Trackers](#ico-trackers)
 - [Handelsplätze](#handelsplätze)
 - [Gemeinschaften](#Gemeinschaften)
@@ -30,7 +30,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 - [Wallets](#wallets)
 - [Altfolio](#altfolio)
 - [Nützliche Tools](#nützliche-tools)
-- [Video](#video)
+- [Videos](#videos)
   - [YouTube Kanäle](#youtube-kanäle)
   - [Filme](#filme)
 - [Learnen](#lernen)
@@ -101,7 +101,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [CoinDar](https://coindar.org/) - Be first to know about coming cryptocurrency news, updates, hard forks, meetups, coins listing on exchanges and other important events.
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
 
-# Price Trackers
+# Preisverfolgung
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
@@ -115,6 +115,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
 * [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
 * [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Cryptocurrency portfolio on the command line.
+
 # ICO Trackers
 * [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
 * [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
@@ -128,6 +129,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
 * [ICOdrops](https://icodrops.com/) - Constantly updating kanban style ICO board.
 * [ICO Whitelists](http://icowhitelists.com) - Articles on ICOs. Also tracks growth of 200+ Telegram groups for ICOs.
+
 # Exchanges
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
@@ -141,7 +143,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Cryptoradar](https://cryptoradar.co) - Compares prices and features from > 25 exchanges and brokers.
 * [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
 * [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
-# Communities
+# Gemeinschaften
 ## Chats
 * [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
 * [The CHT Community](https://t.me/join_cht) - Official CryptoHackers Telegram chat. The place to talk to founders of your favourite crypto startups & apps.
@@ -152,14 +154,13 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Blockstack](https://docs.google.com/forms/d/e/1FAIpQLSed5Mnu0G5ZMJdWs6cTO_8sTJfUVfe1sYL6WFDcD51_XuQkZw/viewform) - Official Blockstack Slack community. 3000+ members.
 * [CryptoMinded](http://community.cryptominded.com/) - All things crypto: events, jobs, trades, news. 1000+ Slack members.
 * [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
-## Forums
+## Foren
 * [CryptoHeresy ⚡️](https://cryptoheresy.com) - Fresh Bitcoin forum with focus on cryptocurrency tools and resources.
 * [Bitcoin Talk](https://bitcoinTalk.org/) - Homepage of the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
 * [Bitcoin.com Forum](https://forum.bitcoin.com/) - Strong community of 30,000+ users.
 * [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
 * [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - Born in 2013, very active forum. Modern engine.
-
-## Other
+## Sonstiges
 * [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare is interactive platform where you can discuss the latest crypto trends and monitor all markets streaming in real time. Also includes perfect altfoilio app.
 * [Trading View](https://www.tradingview.com/u/DLavrov/) - Follow pro traders and learn from their analyzes. (Mr. Lavrov is great specialist).
 * [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - Question and answer site for Bitcoin crypto-currency enthusiasts.
@@ -177,8 +178,6 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
 * [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
-
-
 # Wallets
 * [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
 * [Blockchain.info](https://blockchain.info/wallet/#/) - World’s most popular digital wallet. Mobile apps included.
@@ -194,7 +193,6 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Samourai](https://samouraiwallet.com/) - Secure Bitcoin wallet for Android.
 * [WalletList](https://walletlist.me) - Showcase your public cryptocurrency addresses.
 * [WalletGenerator.net](https://walletgenerator.net) - Universal JavaScript client-side wallet generator for 100+ coins.
-
 # Altfolio
 * [Blockfolio](https://www.blockfolio.com/) - Cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Nice widgets. Simple. Android/iOS.
 * [ACrypto](https://dworks.in/acrypto) - Track bitcoin and altcoins prices, custom alarms, detailed charts. Flexible, many settings, informative. Available for iOS & Android.
@@ -202,8 +200,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Coinfyi](https://coin.fyi) - Track your performance, news & market signals related to your cryptocurrency investments. Anonymous. Simple. Free.
 * [f0lio](https://f0l.io) - Beatutiful cryptocurrency portfolio management for mobile devices.
 * [BitWorth](http://www.bitworth.io/) - Cryptocurrency Net Worth Tracker for iOS.
-* [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to 
-watch.
+* [CoinDex](https://coindexapp.com) - iOS app that lets you stay up to date with the cryptocurrency markets you want to watch.
 * [Delta](https://getdelta.io/) -  Ultimate cryptocurrency portfolio tracker tool for iOS & Android.
 * [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
 * [Cryptagon](https://cryptagon.io) - Powerful app to track portfolio. Automatic imports from exchanges.
@@ -224,9 +221,8 @@ watch.
 * [BroBot](https://beta.brobot.tech/) - Personalized chatbot that controls your portfolio. Receive news and signal notifications.
 * [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
 * [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
-
-# Video
-## YouTube Channels
+# Videos
+## YouTube Kanäle
 * [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
 * [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork) - Informative news digests.
 * [Crypt0](https://www.youtube.com/user/obham001) -  Omar is one of the most popular crypto bloggers. He creates fascinating interviews.
@@ -236,12 +232,10 @@ watch.
 * [BitcoinFilm](https://www.youtube.com/channel/UC42Y8ajCzQ_rjS_wVTamglQ) - Short films about people using Bitcoin.
 * [Bitcoin and Cryptocurrency Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos) - Bitcoin and Cryptocurrency Technologies course. 12 videos, each 45-90 mins.
 * [CryptoPortfolio](https://www.youtube.com/channel/UCI9POyyP-f93JHfkhr2ma2g/featured) - YouTube channel reviewing ICOs and various cryptocurrencies.
-* [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw) - Technical and fundamental analysis on how to 
-invest in cryptocurrency.
+* [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw) - Technical and fundamental analysis on how to invest in cryptocurrency.
 * [EtherCasts](https://www.youtube.com/user/EtherCasts) - Ancient Ethereum news, reviews and interviews channel.
 * [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - Great list of 55 Bitcoin talks.
 * [BiteSizeBitcoin](https://www.youtube.com/channel/UCnePINazJJpbn9FWaq_skQA/featured) - Great beginner guides. Trading and investing advices, podcasts and meetups.
-
 ## Movies
 * [Ulterior States](http://www.iamsatoshi.com/) - Real-life conversations with some thought leaders within the Bitcoin ecosystem. The film took 3 years to complete.
 * [The Bitcoin Doco](https://vimeo.com/112223859) - Fascinating story focusing on the emergence of new world wide currency.
@@ -258,7 +252,7 @@ invest in cryptocurrency.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works. 
 * [Pluralsight Course](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Introduction to Bitcoin and decentralized technology for beginners.
-## Other
+## Sonstiges
 * [CoinPride Newsletter](https://club.coinpride.com) - The most important crypto news and events. One handcrafted email per week.
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
 * [Blockchain Demo](http://blockchaindemo.io/) - This interactive demo will guide you through each component of blockchain step-by-step.
@@ -270,7 +264,7 @@ invest in cryptocurrency.
 * [Bitcoin Forks](http://mapofcoins.com/bitcoin) - Visualisierung aller Bitcoin Forks.
 * [Coin Demo](https://coindemo.io) - Interaktive Demonstration die zeigt wie Bitcoin Transactionen funktionieren.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin Web-Comics lehrreich kommentiert.
-# For Developers
+# Für Entwickler
 ## API
 * [Stripe Bitcoin](https://stripe.com/bitcoin/) - Accepting Bitcoin payments made easy. Great integration from Stripe.
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
@@ -280,7 +274,7 @@ invest in cryptocurrency.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
 * [CoinCap](https://github.com/CoinCapDev/CoinCap.io) - Simple and informative. Lots of altcoins. History data. No limits.
-## Other
+## Sonstiges
 * [Bitpay](https://bitpay.com/) - Use BitPay's retail, ecommerce, billing, and donation tools to accept payments.
 * [Gekko](https://github.com/askmike/gekko) - Free and open source trading bot. GUI, CLI, NodeJS, nice docs. 18 exchanges (including Bitfinex, Bitstamp and Poloniex).
 * [Zenbot](https://github.com/carlos8f/zenbot) - Free and open source trading bot. CLI, NodeJS. GDAX, Poloniex, Kraken, Bittrex, Quadriga and Gemini.
@@ -305,7 +299,7 @@ invest in cryptocurrency.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 
 
-# Sponsors
+# Sponsoren
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/tee.png" height="300">](https://www.redbubble.com/people/cryptomerchco/shop/mens-clothes?accordion=department&ref=artist_shop_department_refinement)
 
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/iphone.png" height="300">](https://www.redbubble.com/people/cryptomerchco/shop/iphone-cases?accordion=product&ref=artist_shop_product_refinement)
@@ -314,7 +308,7 @@ invest in cryptocurrency.
 
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/mug.png" height="170">](https://www.redbubble.com/people/cryptomerchco/shop/mugs?accordion=product&ref=artist_shop_product_refinement)
 
-# Contribute
-Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
-# License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+# Mitmachen
+Du hast einen guten Link gefunden? Einen Fehler gefunden? Dann mach mit und beteilige Dich direkt über github! Wir freuen uns über jede Mithilfe! Aber bitte vorher die [CONTRIBUTING-de.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) lesen ;) .
+# Lizenz
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
