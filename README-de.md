@@ -25,7 +25,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
   - [Chats](#chats)
   - [Foren](#forums)
   - [Sonstiges](#sonstiges)
-  - [Twitter Konten and Listen](#twitter-users-and-lists)
+  - [Twitter Kanäle und Listen](#twitter-kanäle-und-listen)
 - [Arbeitsmarkt](#jobs)
 - [Wallets](#wallets)
 - [Altfolio](#altfolio)
@@ -151,38 +151,38 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Bitpam](https://discordapp.com/invite/VpPrGmF?ref=cryptominded) - Freundliche Discord Community. Über 300 Mitglieder.
 * [Bitcoin Core Community](https://t.me/BitcoinCore) - Telegram Diskussion rund um Bitcoin und Bitcoin Core. Über 2000 Mitglieder.
 * [BitcoinMarkets](https://self-inviter-slack2.herokuapp.com/) - Bitcoin and Kryptowährungen PreisDiskussion. Offizieller Slack Kanal von /r/bitcoinmarkets. Über 4000 Mitglieder.
-* [Blockstack](https://docs.google.com/forms/d/e/1FAIpQLSed5Mnu0G5ZMJdWs6cTO_8sTJfUVfe1sYL6WFDcD51_XuQkZw/viewform) - Official Blockstack Slack community. 3000+ members.
-* [CryptoMinded](http://community.cryptominded.com/) - All things crypto: events, jobs, trades, news. 1000+ Slack members.
-* [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
+* [Blockstack](https://docs.google.com/forms/d/e/1FAIpQLSed5Mnu0G5ZMJdWs6cTO_8sTJfUVfe1sYL6WFDcD51_XuQkZw/viewform) - Offizieller Slack Kanal der Blockstack Community. Über 3000 Mitglieder.
+* [CryptoMinded](http://community.cryptominded.com/) - Alles über Krypto: Veranstaltungen, Jobs, Trades, Nachrichten. Über 1000 Slack Mitglieder.
+* [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Guter alter IRC. Der Kanal von 200 leisen Leuten.
 ## Foren
-* [CryptoHeresy ⚡️](https://cryptoheresy.com) - Fresh Bitcoin forum with focus on cryptocurrency tools and resources.
-* [Bitcoin Talk](https://bitcoinTalk.org/) - Homepage of the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009.
-* [Bitcoin.com Forum](https://forum.bitcoin.com/) - Strong community of 30,000+ users.
-* [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
-* [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - Born in 2013, very active forum. Modern engine.
+* [CryptoHeresy ⚡️](https://cryptoheresy.com) - Ein frisches Bitcoin Forum mit Fokus auf Krypto Tools und Resourcen.
+* [Bitcoin Talk](https://bitcoinTalk.org/) - Homepage der Bitcoin Community seit Beginn. Erstellt von Satoshi Nakamoto 2009.
+* [Bitcoin.com Forum](https://forum.bitcoin.com/) - Starke Community mit über 30.000 Benutzern.
+* [BitcoinGarden](https://bitcoingarden.org) - Dieses Forum gibt es seit Januar 2017.
+* [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - 2013 gegründetes, sehr aktives Forum. Moderne engine.
 ## Sonstiges
-* [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare is interactive platform where you can discuss the latest crypto trends and monitor all markets streaming in real time. Also includes perfect altfoilio app.
-* [Trading View](https://www.tradingview.com/u/DLavrov/) - Follow pro traders and learn from their analyzes. (Mr. Lavrov is great specialist).
-* [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - Question and answer site for Bitcoin crypto-currency enthusiasts.
-* [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Discuss Bitcoin news on Reddit. 300,000+ readers.
-* [Steemit](https://steemit.com) - Fancy Reddit running on a blockchain. Post to earn $. Spend $ to promote yourself.
-## Twitter Users and Lists
-* [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - List of >50 prominent, high signal-to-noise-ratio accounts.
+* [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare ist eine interaktive platform, wo Du die neuesetn Krypto Trends diskutieren und alle Märkte in Echtzeit beobachten kann.
+* [Trading View](https://www.tradingview.com/u/DLavrov/) - Folge professionellen Tradern und leren aus ihren Technischen Analysen. (Mr. Lavrov ist ein echter Experte).
+* [Bitcoin on StackExchange](https://bitcoin.stackexchange.com/) - Farge- und Antwortseite rund um Bitcoin und Krypto.
+* [/r/Bitcoin/](https://www.reddit.com/r/Bitcoin/) - Diskutiere Bitcoin Nachrichten auf Reddit. Über 300.000 Leser.
+* [Steemit](https://steemit.com) - Soziales Netzwerk basierend aud der STEEM Blockchain. Verdiene mit Deinen Beiträgen Krypto. Bezahle Krypto, um Werbung für Dich zu machen.
+## Twitter Kanäle und Listen
+* [Quality Crypto](https://twitter.com/followingell/lists/quality-crypto) - Liste von über 50 prominenten Kanälen mit einer hohen signal-to-noise-ratio.
 # Jobs
-* [Coinality](https://coinality.com/) - Coinality is free service connecting crypto employers and job seekers.
-* [Cryptogrind](https://www.cryptogrind.com/) - Bitcoin freelance platform.
-* [Blockchain Dev Jobs](https://blockchaindevjobs.com/) - Curated list of jobs from around the web for blockchain engineers.
-* [Ethlance](https://ethlance.com) - Hire or work for ETH. 
-* [/r/Jobs4Bitcoins/](https://www.reddit.com/r/Jobs4Bitcoins/) - Place on Reddit to offer your talents and skills in exchange for the fastest growing currency in the world.
-* [Crypto.jobs](https://crypto.jobs) - Well categorized jobs list. Owner does a lot to promote it.
-* [Beincrypto](https://beincrypto.com) - Aggregates all the crypto jobs from major job boards.
-* [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Useful filters, locations & categories.
-* [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
+* [Coinality](https://coinality.com/) - Coinality ist ein kostenloser Service, der Krypto Arbeitgeber mit Arbeitssuchenden verbindet.
+* [Cryptogrind](https://www.cryptogrind.com/) - Bitcoin Freelancer Platform.
+* [Blockchain Dev Jobs](https://blockchaindevjobs.com/) - Kuratierte Liste von Jobs im Internet für Blockchain Entwickler.
+* [Ethlance](https://ethlance.com) - Ethereum Job-Börse. 
+* [/r/Jobs4Bitcoins/](https://www.reddit.com/r/Jobs4Bitcoins/) - Biete Deine Talente an und lass Dich in Bitcoin bezahlen (Reddit).
+* [Crypto.jobs](https://crypto.jobs) - Gut kategorisierte Job Liste.
+* [Beincrypto](https://beincrypto.com) - Aggregiert Krypto Jobs aus grossen Jobseiten.
+* [Jobs by BlockRepublic](http://blockrepublic.io/blockchain-jobs/) - Nützliche Filter, Orte & Kategorien.
+* [Crypto Jobs List](https://cryptojobslist.com/) - Kuratierte Jobs bei verifizirten Top Blockchain Firmen.
 # Wallets
-* [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core is MIT licensed open source Bitcoin wallet. It runs own full node so 145GG of free disk space is required. OSX/Linux/Windows/Ubuntu.
-* [Blockchain.info](https://blockchain.info/wallet/#/) - World’s most popular digital wallet. Mobile apps included.
-* [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, has 100+ contributors. 
-* [Exodus](https://www.exodus.io) - Exodus is the first desktop multi-asset wallet with ShapeShift built in. 
+* [Bitcoin Core](https://bitcoin.org/en/download) - Bitcoin Core ist das MIT-lizensierte open source Bitcoin wallet. Braucht 160GB Festplattenspeicher, da es ein Full Node ist und die gesamte Blockchain runterladen muss. OSX/Linux/Windows/Ubuntu.
+* [Blockchain.info](https://blockchain.info/wallet/#/) - Wallet von Blockchain.info. Auch mobile Apps.
+* [Electrum](https://electrum.org/#home) - Thin Bitcoin client. Opensource, MIT, über 100 contributors. 
+* [Exodus](https://www.exodus.io) - Exodus ist das erste Desktop Wallet, dass mehrere Kryptowährungen unterstützt und ShapeShift eingebaut hat.
 * [MyEtherWallet](https://www.myetherwallet.com) - Opensource webapp to access Ethereum. Old and reliable. ERC20 support. Loved by phishers!
 * [Coinomi](https://coinomi.com/) - Opensource, supports many altcoins, fast and has perfect UI.
 * [Jaxx](https://jaxx.io) - Reliable, Jaxx supports many of the leading cryptocurrency platforms. Crossplatform.
