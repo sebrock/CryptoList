@@ -299,13 +299,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
 
 # Sponsoren
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/tee.png" height="300">](https://www.redbubble.com/people/cryptomerchco/shop/mens-clothes?accordion=department&ref=artist_shop_department_refinement)
-
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/iphone.png" height="300">](https://www.redbubble.com/people/cryptomerchco/shop/iphone-cases?accordion=product&ref=artist_shop_product_refinement)
-
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/laptop.png" height="240">](https://www.redbubble.com/people/cryptomerchco/shop/laptop-skins?accordion=product&ref=artist_shop_product_refinement)
-
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/mug.png" height="170">](https://www.redbubble.com/people/cryptomerchco/shop/mugs?accordion=product&ref=artist_shop_product_refinement)
+[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/sponsored.svg?sanitize=true">](https://coinpride.com)
 
 # Mitmachen
 Du hast einen guten Link gefunden? Einen Fehler gefunden? Dann mach mit und beteilige Dich direkt über github! Wir freuen uns über jede Mithilfe! Aber bitte vorher die [CONTRIBUTING-de.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) lesen ;) .
