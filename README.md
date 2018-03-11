@@ -76,7 +76,6 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [Nick Tomaino](https://thecontrol.co/@ntmoney) - Tech investor @RunaCapital.
 * [Eric Lombrozo](https://medium.com/@elombrozo) - Co-CEO & CTO Ciphrex Corp., Bitcoin Core contributor.
 * [Jimmy Song](https://medium.com/@jimmysong) - Bitcoin Developer and Entrepreneur.
-* [Nicolas Dorier](https://medium.com/@nicolasdorier) - Main developer of NBitcoin. CTO at Metaco SA.
 * [Linda Xie](https://medium.com/@linda.xie) - Product Manager @Coinbase. Advisor @0xProject.
 * [Fred Ehrsam](https://medium.com/@FEhrsam) - Previously co-founder @Coinbase, trader @GoldmanSachs, computer science @DukeU.
 * [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
