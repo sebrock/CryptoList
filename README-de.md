@@ -42,7 +42,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
   - [Sonstiges](#sonstiges)
 - [Podcasts](#podcasts)
 - [Mining](#mining)
-- [Sponsoren](#sponsors)
+- [Sponsoren](#sponsoren)
 - [Mitmachen](#Mitmachen)
 - [Lizenz](#licenz)
 
@@ -50,34 +50,33 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 ## Magazine und Blogs
 * [CryptoHackers](https://cryptohackers.party/) - Interviews mit "Superhelden" der Krypto Welt. Interessante Fakten und Start-Up Geschichten.
 * [CoinTelegraph](https://cointelegraph.com/) - Führende Publication mit den neuesten Nachrichten, Analysen, Expertenmeinungen und Benutzerkommntaren. Gegründet 2013.
-* [CoinDesk](https://www.coindesk.com/) - CoinDesk nennt sich "world leader" in Nachrichten und Informationen zu dikigaten Währungen. 17M Besucher pro Monat.
+* [CoinDesk](https://www.coindesk.com/) - CoinDesk nennt sich "world leader" in Nachrichten und Informationen zu digitalen Währungen. 17M Besucher pro Monat.
 * [CryptoCoins News](http://www.cryptocoinsnews.com/) - Neueste Nachrichten und Analysen. Grosser Blog mit regelmässigen Veröffentlichungen. Ca. 7M Leser pro Monat.
-* [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine ist die älteste und etablierteste Quelle  für Nachrichten, Informationen und Expertenbeiträgen. Zeitweise tiefgehende und sehr interessante Artikel.
-* [99 Bitcoins](https://99bitcoins.com/) - 99 Bitcoins ist die grösste Informationsquelle source for non technical newbies.
-* [Coin Speaker](https://www.coinspeaker.com/) - Founded in 2014, CoinSpeaker is one of the most influentional news source.
-* [The Memory Pool](http://nakamotoinstitute.org/mempool/) - Satoshi Nakamoto Institute blog.
-* [Tim Swanson Blog](http://www.ofnumbers.com/category/bitcoin/) - Blog of director of market research at R3.
-* [Oleg Andreev Blog](http://blog.oleganza.com/) - Blog of hardcore developer, product architect at Chain.com.
-* [Freedom to Tinker](https://freedom-to-tinker.com/tag/bitcoin/) - Princeton hosted tech blog: researches and experts commentaries.
-* [Money and State](http://moneyandstate.com/) - Blog of Erik Voorhees, CEO of leading digital asset exchange ShapeShift.io
-* [Gavin Andersesn Blog](http://gavinandresen.ninja/) - Blog of Bitcoin developer.
-* [Peter Todd Blog](https://petertodd.org/) - Blog of Todd, the applied cryptography consultant.
-* [Richard Brown Blog](https://gendal.me/tag/bitcoin/) - Blog of Head of Technology at R3CEV.
-* [Laanwj Blog](https://laanwj.github.io/) - Blog of Bitcoin core developer and reverse engineer.
-* [Crypto Analyst](https://www.cryptoanalyst.co/) - World’s premier cryptocurrency news analysis.
-* [Bitrazzi](https://bitrazzi.com/) - Bitcoin, Cryptocurrency And Blockchain News.
-* [Bitfalls](https://bitfalls.com) - Technical news, solidity tutorials, and skeptical research. EN and HR languages.
-* [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster. 
+* [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine ist die älteste und etablierteste Quelle  für Nachrichten, Informationen und Expertenbeiträgen. Teilweise tiefgehende und sehr interessante Artikel.
+* [99 Bitcoins](https://99bitcoins.com/) - 99 Bitcoins ist die grösste Informationsquelle für nicht-technische Anfänger.
+* [Coin Speaker](https://www.coinspeaker.com/) - CoinSpeaker ist eine der einflussreichsten Nachrichtenquellen. Gegründet 2014.
+* [The Memory Pool](http://nakamotoinstitute.org/mempool/) - Blog des Satoshi Nakamoto Institute.
+* [Tim Swanson Blog](http://www.ofnumbers.com/category/bitcoin/) - Blog des director of market research von R3.
+* [Oleg Andreev Blog](http://blog.oleganza.com/) - Blog eines hardcore Entwicklers und product architect bei Chain.com.
+* [Freedom to Tinker](https://freedom-to-tinker.com/tag/bitcoin/) -  Princeton-gehostetes Tech Blog: Forschung und Expertenkommentierung.
+* [Money and State](http://moneyandstate.com/) - Blog von Erik Voorhees, CEO der führenden Krypto-Börse ShapeShift.io
+* [Gavin Andersesn Blog](http://gavinandresen.ninja/) - Blog eines Bitcoin Entwicklers.
+* [Peter Todd Blog](https://petertodd.org/) - Blog von Todd, einem Berater für angewandte Kryptographie.
+* [Richard Brown Blog](https://gendal.me/tag/bitcoin/) - Blog des Head of Technology von R3CEV.
+* [Laanwj Blog](https://laanwj.github.io/) - Blog eines Bitcoin core Entwicklers und reverse engineers.
+* [Crypto Analyst](https://www.cryptoanalyst.co/) - Kryptowährung Nachrichtenanalysen.
+* [Bitrazzi](https://bitrazzi.com/) - Nachrichten zu Bitcoin, Kryptowährung und Blockchain.
+* [Bitfalls](https://bitfalls.com) - Technische Nachrichten, Solidity Tutorials, und skeptische Forschung. Englische und Ungarische Sprache.
+* [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog eines zufälligen Investors in Bitcoin and Kryptowährung, Miner, Blogger und Podcaster. 
 ## Medium
-* [Vitalik Buterin](https://medium.com/@VitalikButerin) - Ethereum creator, cryptocurrency evangelist.
-* [Bitcoin Tech Talk](https://bitcointechtalk.com/) - All About Bitcoin Development.
-* [Tuur Demeester](https://medium.com/@tuurdemeester) - Economist & investor, editor in chief at Adamant Research.
-* [Vinny Lingham](https://vinnylingham.com/) - CEO of Civic.com.
-* [Nicolas Dorier](https://medium.com/@nicolasdorier) - Main developer of NBitcoin. CTO at Metaco SA.
-* [Nick Tomaino](https://thecontrol.co/@ntmoney) - Tech investor @RunaCapital.
+* [Vitalik Buterin](https://medium.com/@VitalikButerin) - Erfinder von Ethereum, Evangelist für Kryptowährung .
+* [Bitcoin Tech Talk](https://bitcointechtalk.com/) - Alles über Bitcoin Entwicklung.
+* [Tuur Demeester](https://medium.com/@tuurdemeester) - Ökonom und Investor, Chefredakteur bei Adamant Research.
+* [Vinny Lingham](https://vinnylingham.com/) - CEO von Civic.com.
+* [Nicolas Dorier](https://medium.com/@nicolasdorier) - Entwickler von NBitcoin. CTO von Metaco SA.
+* [Nick Tomaino](https://thecontrol.co/@ntmoney) - Tech Investor @RunaCapital.
 * [Eric Lombrozo](https://medium.com/@elombrozo) - Co-CEO & CTO Ciphrex Corp., Bitcoin Core contributor.
-* [Jimmy Song](https://medium.com/@jimmysong) - Bitcoin Developer and Entrepreneur.
-* [Nicolas Dorier](https://medium.com/@nicolasdorier) - Main developer of NBitcoin. CTO at Metaco SA.
+* [Jimmy Song](https://medium.com/@jimmysong) - Bitcoin Entwickler und Entrepreneur.
 * [Linda Xie](https://medium.com/@linda.xie) - Product Manager @Coinbase. Advisor @0xProject.
 * [Fred Ehrsam](https://medium.com/@FEhrsam) - Previously co-founder @Coinbase, trader @GoldmanSachs, computer science @DukeU.
 * [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
