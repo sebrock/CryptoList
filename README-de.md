@@ -13,15 +13,15 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 
 # Inhaltsverzeichnis
 [English Version](https://github.com/coinpride/CryptoList/blob/master/README.md) :uk:
-- [Medien](#media)
+- [Medien](#medien)
   - [Magazine und Blogs](#magazine-und-blogs)
   - [Medium](#medium)
   - [Telegram Kanäle](#telegram-kanäle)
 - [Aggregierte Nachrichten](#aggregierte-nachrichten)
-- [Preisverfolgung](#preisverfolgung)
-- [ICO Trackers](#ico-trackers)
+- [Preisbeoabachtung](#preisbeoabachtung)
+- [ICO Trackers](#ico-tracker)
 - [Handelsplätze](#handelsplätze)
-- [Gemeinschaften](#Gemeinschaften)
+- [Communities](#communities)
   - [Chats](#chats)
   - [Foren](#forums)
   - [Sonstiges](#sonstiges)
@@ -33,7 +33,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 - [Videos](#videos)
   - [YouTube Kanäle](#youtube-kanäle)
   - [Filme](#filme)
-- [Learnen](#lernen)
+- [Lernen](#lernen)
   - [Bücher](#bücher)
   - [Kurse](#kurse)
   - [Sonstiges](#sonstiges)
@@ -43,8 +43,8 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 - [Podcasts](#podcasts)
 - [Mining](#mining)
 - [Sponsoren](#sponsoren)
-- [Mitmachen](#Mitmachen)
-- [Lizenz](#licenz)
+- [Mitmachen](#mitmachen)
+- [Lizenz](#lizenz)
 
 # Medien
 ## Magazine und Blogs
@@ -59,7 +59,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Tim Swanson Blog](http://www.ofnumbers.com/category/bitcoin/) - Blog des director of market research von R3.
 * [Oleg Andreev Blog](http://blog.oleganza.com/) - Blog eines hardcore Entwicklers und product architect bei Chain.com.
 * [Freedom to Tinker](https://freedom-to-tinker.com/tag/bitcoin/) -  Princeton-gehostetes Tech Blog: Forschung und Expertenkommentierung.
-* [Money and State](http://moneyandstate.com/) - Blog von Erik Voorhees, CEO der führenden Krypto-Börse ShapeShift.io
+* [Money and State](http://moneyandstate.com/) - Blog von Erik Voorhees, CEO der führenden Krypto-Börse ShapeShift.io.
 * [Gavin Andersesn Blog](http://gavinandresen.ninja/) - Blog eines Bitcoin Entwicklers.
 * [Peter Todd Blog](https://petertodd.org/) - Blog von Todd, einem Berater für angewandte Kryptographie.
 * [Richard Brown Blog](https://gendal.me/tag/bitcoin/) - Blog des Head of Technology von R3CEV.
@@ -67,7 +67,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Crypto Analyst](https://www.cryptoanalyst.co/) - Kryptowährung Nachrichtenanalysen.
 * [Bitrazzi](https://bitrazzi.com/) - Nachrichten zu Bitcoin, Kryptowährung und Blockchain.
 * [Bitfalls](https://bitfalls.com) - Technische Nachrichten, Solidity Tutorials, und skeptische Forschung. Englische und Ungarische Sprache.
-* [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog eines zufälligen Investors in Bitcoin and Kryptowährung, Miner, Blogger und Podcaster. 
+* [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog eines zufälligen Investors in Bitcoin and Kryptowährung, Miner, Blogger und Podcaster.
 ## Medium
 * [Vitalik Buterin](https://medium.com/@VitalikButerin) - Erfinder von Ethereum, Evangelist für Kryptowährung .
 * [Bitcoin Tech Talk](https://bitcointechtalk.com/) - Alles über Bitcoin Entwicklung.
@@ -77,79 +77,80 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Nick Tomaino](https://thecontrol.co/@ntmoney) - Tech Investor @RunaCapital.
 * [Eric Lombrozo](https://medium.com/@elombrozo) - Co-CEO & CTO Ciphrex Corp., Bitcoin Core contributor.
 * [Jimmy Song](https://medium.com/@jimmysong) - Bitcoin Entwickler und Entrepreneur.
-* [Linda Xie](https://medium.com/@linda.xie) - Product Manager @Coinbase. Advisor @0xProject.
-* [Fred Ehrsam](https://medium.com/@FEhrsam) - Previously co-founder @Coinbase, trader @GoldmanSachs, computer science @DukeU.
-* [Token Economy](https://tokeneconomy.co/) - Making sense of the latest in crypto-land: cryptocurrencies, blockchains, ICOs, dapps & the growing token economy.
-* [The Midas Guide](https://medium.com/the-midas-guide) - Blockchain & crypto original researches.
+* [Linda Xie](https://medium.com/@linda.xie) - Product Manager bei Coinbase. Advisor im 0x Projekt.
+* [Fred Ehrsam](https://medium.com/@FEhrsam) - Ehemaliger co-founder bei Coinbase, Trader  bei GoldmanSachs, computer science @DukeU.
+* [Token Economy](https://tokeneconomy.co/) - Erklärungen und Überlegungen zum Neuesten im Krypto-Land: Kryptowährungen, Blockchains, ICOs, dApps & Entwicklung der "Token economy".
+* [The Midas Guide](https://medium.com/the-midas-guide) - Forschung zu Blockchain & Kryptowährungen.
 
 ## Telegram Kanäle
-* [Best of CryptoHeresy](https://t.me/cryptoheresy) - Transmits best topics from CryptoHeresy forum.
-* [Crypto Memes](https://t.me/join_cryptomemes) - Cryptoworld funny pictures.
-* [Crypto](https://t.me/Crypto) - The god of all crypto channels.
-* [UpcomingICOs](https://t.me/UpcomingICOs) - This channel is dedicated to informing people of up and coming ICO's.
-* [CryptoNews](https://t.me/bitcoinnews) - Cryptocurrency news megafeed that is posted in real time, even before they hit social media.
-* [Ethereum dapps](https://t.me/ethereumdapps) - Ethereum & DAPPS news and updates.
+* [Best of CryptoHeresy](https://t.me/cryptoheresy) - Bringt die besten topics aus dem CryptoHeresy Forum.
+* [Crypto Memes](https://t.me/join_cryptomemes) - Lustige Bilder aus der Kryptop-Welt.
+* [Crypto](https://t.me/Crypto) - Der Gott aller Krypto Kanäle.
+* [UpcomingICOs](https://t.me/UpcomingICOs) - Kanal, der über aktuelle und kommende ICOs informiert.
+* [CryptoNews](https://t.me/bitcoinnews) - Megafeed für Kryptowährungen mit Meldungen in Echtzeit, bevor sie in den sozialen Medien erscheinen.
+* [Ethereum dapps](https://t.me/ethereumdapps) - Nachrichten und Neuigkeiten zu Ethereum & dApps.
 
 # Aggregierte Nachrichten
-* [CoinBuzz](https://coinbuzz.stream/) - CoinBuzz aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
-* [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
-* [ETHNews](https://www.ethnews.com) - ETHNews is emerging provider of Ethereum and Blockchain ecosystem news. 
-* [Coin Spectator](https://coinspectator.com/) - Get the latest cryptocurrency, bitcoin & blockchain news from many news sources.
-* [CoinTerminal](https://site.cointerminal.co/) - CoinTerminal instantly aggregates, summarizes and analyzes market chatter for sentiment and streams it in real-time.
-* [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
-* [CoinDar](https://coindar.org/) - Be first to know about coming cryptocurrency news, updates, hard forks, meetups, coins listing on exchanges and other important events.
-* [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
+* [CoinBuzz](https://coinbuzz.stream/) - CoinBuzz aggregiert Nachrichten aus vielen Quellen (Twitter, Reddit, Google Trends etc.) und zeigt sie im Trello style an.
+* [CryptoPanic](https://cryptopanic.com/) - CryptoPanic gibt Kryptotradern und -enthusiasten Hinweise auf den Effekt der Nachrichten auf Preis und Märkte.
+* [ETHNews](https://www.ethnews.com) - ETHNews ist ein aufstrebender Lieferant für Nachrichten über Ethereum und das Blockchain Ökosystem.
+* [Coin Spectator](https://coinspectator.com/) - Neueste Nachrichten zu Bitcoin, Kryptowährung und Blockchain aus vielen Quellen.
+* [CoinTerminal](https://site.cointerminal.co/) - CoinTerminal aggregiert und analysiert Marketinformationen und streamt diese in Echtzeit. Kostenpfplichtig.
+* [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar zeigt alle anstehendenden Coin Veranstaltungen und Updates.
+* [CoinDar](https://coindar.org/) - Kryptowährung-Nachrichten, -updates, hard forks, -Meetups, Coin Listings und andere wichtige Events.
+* [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - iOS App für Kryptowährung-Nachrichten und Charts.
+# Preisbeobachtung
+* [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing zeigt Gewinner und Verlierer von Preisveränderungen.
+* [CoinMarketcap](https://coinmarketcap.com/) - Alt und cool. Viele Coins Preise, Graphen, Marktkapitalisierung, API, Widgets, Tools. 90M Benutzer im Monat.
+* [Coincap](http://coincap.io/) - CoinCap verfolgt Marktinformationen hunderter Kryptowährungen in Echtzeit. Es gibt auch eine Handy-App.
+* [Cryptowatch](https://cryptowat.ch) - Live Preischarts und Marktdaten für Bitcoin, Ethereum, und mehr. Viele Handelsplätze, flexible Einstellungen und eine coole API.
+* [Bfxdata](https://www.bfxdata.com/) - Charts und Statistiken für Bitfinex Marktdaten und Margenfinanzierung.
+* [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin Charts mit EMA, MACD und anderen Indikatoren. Unterstützt viele  Handelsplätze (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
+* [Flippening Watch](http://www.flippening.watch/) - Wann wird Ethereum Bitcoin überholen und die wichtigste Kryptowährung sein?
+* [Coindex](https://coindexapp.com) - Schöne iOS App zur Kryptowährung Preisbeobachtung.
+* [WorldCoinIndex](https://www.worldcoinindex.com/) - Preisbeobachtung von Kryptowährungen in Echtzeit. Viele Altcoins und viele Fiat Währungen.
+* [CryptoTrader](https://cryptrader.com/) - Handelsplatform für Kryptowährungen . Charts, Nachrichten und Trollbox. Anpassbare Oberfläche.
+* [Coin Daily Update](https://coindailyupdate.com) - Tägliches E-mail Update mit Preisänderungen für einstellbare Coins.
+* [Coindera](https://coindera.com/) - Preiswarnungen in Echtzeit für mehr als 2.000 Coins auf 25+ Handelsplätzen.
+* [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Kryptowährung Portfolio auf der Kommandozeile.
 
-# Preisverfolgung
-* [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
-* [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
-* [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
-* [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
-* [Bfxdata](https://www.bfxdata.com/) - Charts and Stats for Bitfinex market data and margin funding.
-* [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
-* [Flippening Watch](http://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
-* [Coindex](https://coindexapp.com) - Beautiful cryptocurrency price tracker for iOS.
-* [WorldCoinIndex](https://www.worldcoinindex.com/) - Realtime cryptocurrency price monitoring tool. Lots of altcoins and many fiat currencies.
-* [CryptoTrader](https://cryptrader.com/) - Cryptocurrency trading platform. Charts, news and trollbox. Add widgets to customize the look.
-* [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
-* [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
-* [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Cryptocurrency portfolio on the command line.
-
-# ICO Trackers
-* [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
-* [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
-* [TokenData](https://www.tokendata.io/) - See ICO stats: ROI, total investments, status and other information.
+# ICO Tracker
+* [ICOtracker](https://icotracker.net) - Sehr informativer und vertrauenswürdiger Tracker.
+* [The ICO digest](https://theicodigest.com) - Wöchentliche ICO Zusammenfassung.
+* [TokenData](https://www.tokendata.io/) - ICO Statistiken: ROI, Gesamtinvestitionen, Status und sonstige Informationen.
 * [CoinSchedule](https://www.coinschedule.com) - Live Token Sales & ICOs.
-* [ICO Bazaar](https://icobazaar.com/list) - Informative website + ICOs alerts.
-* [Picoloresearch](https://picoloresearch.com/) - Independent research on blockchain startups and ICOs.
-* [Smith + Crown ICO list](https://www.smithandcrown.com/icos/) - Curated list of ongoing and upcoming token sales. Have some research tiers.
-* [ICORating](http://icorating.com/) - ICOrating specializes in evaluating companies with planned ICO.
-* [ICO Alert](https://www.icoalert.com/) - Source for analysis of active and upcoming Initial Coin Offerings.
-* [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
-* [ICOdrops](https://icodrops.com/) - Constantly updating kanban style ICO board.
-* [ICO Whitelists](http://icowhitelists.com) - Articles on ICOs. Also tracks growth of 200+ Telegram groups for ICOs.
+* [ICO Bazaar](https://icobazaar.com/list) - Informative Website + ICOs.
+* [Picoloresearch](https://picoloresearch.com/) - Unabhängige Nachforschungen zu Blockchain startups und ICOs.
+* [Smith + Crown ICO list](https://www.smithandcrown.com/icos/) - Kuratierte List von laufenden und zukünftigen Token Sales.
+* [ICORating](http://icorating.com/) - ICOrating ist auf die Bewertung von Firmen, die ICOs planen, spezialisiert.
+* [ICO Alert](https://www.icoalert.com/) - Analyse laufendender und zukünftiger ICOs.
+* [TokenMarket](https://tokenmarket.net) - TokenMarket bringt Analysen und Bewertungen laufendender und zukünftiger ICOs.
+* [ICOdrops](https://icodrops.com/) - Im Kanban Stil gepflegte ICO Liste.
+* [ICO Whitelists](http://icowhitelists.com) - Artikel über ICOs. Beobachtet auch das Wachstum von über 200 Telegram Gruppen zu ICOs.
 
-# Exchanges
-* [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
-* [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
-* [CoinBase](https://www.coinbase.com) - USA. Trust: 5/5. Pay with fiat.
-* [Kraken](https://www.kraken.com/) - USA. Trust: 5/5. Founded in 2011.
-* [Bittrex](https://www.bittrex.com) - USA. Trust: 3.8/5. Many altcoins.
-* [CEX.IO](https://cex.io/) - UK. Trust: 5/5. Fiat. Newbie friendly.
-* [BestBitcoinExchange](https://www.bestbitcoinexchange.io/) - Curated list of 35 popular exchanges. Looks SEOish but does the job well.
-* [Shapeshift](https://shapeshift.io) - No login, fast, awesome API.
-* [Changelly](https://changelly.com/) - Fiat, nice affiliate program.
-* [Cryptoradar](https://cryptoradar.co) - Compares prices and features from > 25 exchanges and brokers.
-* [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
-* [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
-# Gemeinschaften
+# Markt- und Handelsplätze
+* [Local Bitcoins](https://localbitcoins.com/) - Kauf und Verkauf von Bitcoins von/an Leute in Deiner Gegend. Vertraut von über 10 Millionen Benutzern monatlich. Nicht verfügbar in Deutschland.
+* [Poloniex](https://www.poloniex.com/) - USA. Vertrauen: 3.5/5. Viele Altcoins. Schlechter Support.
+* [CoinBase](https://www.coinbase.com) - USA/EU. Vertrauen: 5/5. Kauf von BTC,LTC,ETH und BCH mit Fiat möglich.
+* [Kraken](https://www.kraken.com/) - USA. Vertrauen: 5/5. 2011 geründet.
+* [Bittrex](https://www.bittrex.com) - USA. Vertrauen: 3.8/5. Viele Altcoins.
+* [CEX.IO](https://cex.io/) - UK. Vertrauen: 5/5. Fiat. Anfängerfreundlich.
+* [BestBitcoinExchange](https://www.bestbitcoinexchange.io/) - Kuratierte Liste von 35 beliebten Handelsplätzen. Sieht nach SEO aus, funktioniert aber gut.
+* [Shapeshift](https://shapeshift.io) - Kein login, schnell, tolle API.
+* [Changelly](https://changelly.com/) - Fiat, nettes Affiliate Program.
+* [Cryptoradar](https://cryptoradar.co) - Vergleiche die günstigsten Wechselkurse für Kryptowährungen.
+* [Binance](https://www.binance.com) - Moderner Handelsblatt mit niedrigen Gebühren. Hat eigenen Token (BNB).
+* [Kucoin](https://www.kucoin.com) - Modern. Entwickelt sich schnell. Hat eigenen Token.
+* [Cryptopia](https://www.cryptopia.co.nz/) - NZ. Handelsplatz für 400+ Kryptowährungen. Zusätzlich Marktplatz, auf dem man Dinge für Krypto kaufen und verkaufen kann.
+
+# Communities
 ## Chats
-* [The Moon Trollbox](https://t.me/join_trollbox) - Hot news discussions, rumors and friendly talks. No cersorship.
-* [The CHT Community](https://t.me/join_cht) - Official CryptoHackers Telegram chat. The place to talk to founders of your favourite crypto startups & apps.
-* [Crypto Aquarium](https://cryptoaquarium.com) - Great community (Telegram, Slack). Curated by Joshua Petty, the Coindex creator. 800+ members.
-* [Bitpam](https://discordapp.com/invite/VpPrGmF?ref=cryptominded) - Friendly Discord community. 300+ members.
-* [Bitcoin Core Community](https://t.me/BitcoinCore) - Telegram discussion about Bitcoin and Bitcoin Core. 2000+ members.
-* [BitcoinMarkets](https://self-inviter-slack2.herokuapp.com/) - Bitcoin and cryptocurrency price discussion. The official Slack of /r/bitcoinmarkets. 4000+ members.
+* [The Moon Trollbox](https://t.me/join_trollbox) - Heisse Diskussionen über Nachrichten, Gerüchte und freundliche Gespräche. Unzensiert.
+* [The CHT Community](https://t.me/join_cht) - Offizieller Telegram chat von CryptoHackers. Ein Ort um Deine Lieblings Krypto Startups und Apps zu diskutieren.
+* [Crypto Aquarium](https://cryptoaquarium.com) - Grossartige Community (Telegram, Slack). Kuratiert durch Joshua Petty, den Gründer von Coindex. Über 800 Mitglieder.
+* [Bitpam](https://discordapp.com/invite/VpPrGmF?ref=cryptominded) - Freundliche Discord Community. Über 300 Mitglieder.
+* [Bitcoin Core Community](https://t.me/BitcoinCore) - Telegram Diskussion rund um Bitcoin und Bitcoin Core. Über 2000 Mitglieder.
+* [BitcoinMarkets](https://self-inviter-slack2.herokuapp.com/) - Bitcoin and Kryptowährungen PreisDiskussion. Offizieller Slack Kanal von /r/bitcoinmarkets. Über 4000 Mitglieder.
 * [Blockstack](https://docs.google.com/forms/d/e/1FAIpQLSed5Mnu0G5ZMJdWs6cTO_8sTJfUVfe1sYL6WFDcD51_XuQkZw/viewform) - Official Blockstack Slack community. 3000+ members.
 * [CryptoMinded](http://community.cryptominded.com/) - All things crypto: events, jobs, trades, news. 1000+ Slack members.
 * [IRC #bitcoin channel](https://webchat.freenode.net/?channels=bitcoin&uio=d4/) - Old good IRC. The channel of 200 silent people.
@@ -207,7 +208,7 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [wallmine](https://wallmine.com/stocks-and-cryptocurrency-portfolio-tracker) - Track both cryptocurrencies and stocks; screeners, heatmaps, news, push notifications.
 * [CoinTracker](https://www.cointracker.io) - Cryptocurrency asset tracker that automatically pulls all balances and transactions from exchanges and cryptocurrency wallets.
 * [Coin Beat](http://www.coinbeatapp.com/) - Crypto tracker for managing over 1300 crypto currencies. Get instant push notification on price activity. iOS and Android.
-# Useful Tools
+# Nützliche Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
 * [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
@@ -235,18 +236,18 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [EtherCasts](https://www.youtube.com/user/EtherCasts) - Ancient Ethereum news, reviews and interviews channel.
 * [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - Great list of 55 Bitcoin talks.
 * [BiteSizeBitcoin](https://www.youtube.com/channel/UCnePINazJJpbn9FWaq_skQA/featured) - Great beginner guides. Trading and investing advices, podcasts and meetups.
-## Movies
+## Filme
 * [Ulterior States](http://www.iamsatoshi.com/) - Real-life conversations with some thought leaders within the Bitcoin ecosystem. The film took 3 years to complete.
 * [The Bitcoin Doco](https://vimeo.com/112223859) - Fascinating story focusing on the emergence of new world wide currency.
 * [Life Inside Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I) - Interesting story about the miners of the new millenium.
-# Learning
-## Books
+# Lernen
+## Bücher
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Mostly for developers. The second edition was published in June 2017.
 * [The Internet of Money](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454) - Significance of bitcoin through series of essays spanning the exhilarating maturation of this technology.
 * [Ethereum](https://www.amazon.com/Ethereum-Blockchains-Decentralized-Autonomous-Organizations/dp/1523930470) - Non-technical guide to understand blockchains. Mostly focused on Ethereum.
 * [The Age of Cryptocurrency](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556) - Insight into the modern financial system and the Bitcoin industry.
 * [Programming Cryptocurrencies and Blockchains](http://yukimotopress.github.io/blockchains) - Learn to build your own blockchains and peer-to-peer central bank nodes from scratch.
-## Courses
+## Kurse
 * [Coursera Course](https://www.coursera.org/learn/cryptocurrency) - Telling what is special about Bitcoin and how it works at technical level. Created by Princeton University.
 * [Udemy Course](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto) - The definitive guide to understand what the bitcoin is and why we should care about them.
 * [Khan's Academy Course](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - The very basics of how blockchain, Bitcoin and encryption works. 
@@ -296,7 +297,6 @@ Kuratierte Sammlung von Weblinks zum Thema Blockchain &amp; Kryptowährungen.
 * [Bitcoin Difficulty](https://bitcoinwisdom.com/bitcoin/difficulty) - Realtime Mining Statistics.
 * [Mining pools](https://blockchain.info/pools) - Mining pool hashrate distribution.
 * [WhatIsMyHashRate?](http://www.whatismyhashrate.com/) - Measure your browser's hashrate.
-
 
 # Sponsoren
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/merch/tee.png" height="300">](https://www.redbubble.com/people/cryptomerchco/shop/mens-clothes?accordion=department&ref=artist_shop_department_refinement)
